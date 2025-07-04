@@ -1,0 +1,83 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/anweshabarma23/project/blob/main/requirements.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# requirements.txt\n",
+        "print(\"\"\"\n",
+        "streamlit\n",
+        "pandas\n",
+        "scikit-learn\n",
+        "joblib\n",
+        "seaborn\n",
+        "matplotlib\n",
+        "\"\"\")"
+      ],
+      "metadata": {
+        "id": "j0NAWupkFW1k",
+        "outputId": "dacf60ad-406f-4305-a6e0-344a378b9989",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "\n",
+            "streamlit\n",
+            "pandas\n",
+            "scikit-learn\n",
+            "joblib\n",
+            "seaborn\n",
+            "matplotlib\n",
+            "\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "T5LvlNlhFXBn"
+      },
+      "execution_count": 2,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "ovncGmDUFXKj"
+      },
+      "execution_count": 2,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "toc_visible": true,
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
